@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dondla Sreenivasulu</h1>
+<h1 align="center">Hi, I'm Dondla Sreenivasulu</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 
