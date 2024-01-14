@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dondla Sreenivasulu</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-- 📫 How to reach me **seenuseenu00111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ao_Q2m2CrVn0MkkA0DfVAuh9w36euS5H/view?usp=sharing](https://drive.google.com/file/d/1Ao_Q2m2CrVn0MkkA0DfVAuh9w36euS5H/view?usp=sharing)
+- 📫 Email **seenuseenu00111@gmail.com**
 
+- 📄 My Resume [https://drive.google.com/file/d/1Ao_Q2m2CrVn0MkkA0DfVAuh9w36euS5H/view?usp=sharing](https://drive.google.com/file/d/1Ao_Q2m2CrVn0MkkA0DfVAuh9w36euS5H/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreenivas-dondla-11072001d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreenivas-dondla-11072001d" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/seenu_dondla/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="seenu_dondla/profile" height="30" width="40" /></a>
